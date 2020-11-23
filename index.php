@@ -1,4 +1,5 @@
-<!DOCTYPE html5>
+
+</html><!DOCTYPE html5>
 
 <html lang="es">
 <head>
@@ -11,69 +12,89 @@
 </head>
 <body>
 <article>
-
 <header>
-
-
-
         
-        <nav class="navbar navbar-expand-lg navbar-darck bg-dark">
+<nav class="navbar navbar-expand-lg navbar-darck bg-dark">
             <a class="navbar-brand" href="#"></a>
           <hr>
-       
+          <center>   <IMG SRC="lei.png.png" WIDTH=150 HEIGHT=150>   
+
+<font  color="red" face="Comic Sans MS,arial,verdana"> <h1>LIBRERIA LEAMOS COLOMBIA </h1></font>
+
+</center>
          <hr>
     </header>
     <main>
     </main>
     <footer>
     </footer>
+<br>
+<br>
+<div class="text-center">
 
+
+<div class="wrapper"> 
+  <div> 
+      <br> 
     
-    <center  <br>
-   <br><h1>
-       ADMINISTRADOR DEL PRODUCTO
-   </h1>
-   <br>
-</center>
-<center>
- <form action="calculador.php" method="POST">
- <td><input type="text" placeholder=' Nombreproducto' name='nombre' required></td>
-           </tr> </center><center>
-           <tr>
-             <br>
-             
-           <td><input type="text" placeholder=' Marcaproducto' name='marca' required></td>
-           </tr> </center><center>
-           <tr>
-             <br>
-             <br>
+       dar click en la imagen para editar o eliminar
+       <br>   
+         <a href="editar.php"> <img src="nutricion.jpg" WIDTH=150 HEIGHT=150 title="click para editar" > </a>   
+                                        &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+                                        
+    
+                                        <a href="editar.php"> <img src="enfermeria.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                          &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+                                         
+                                         
+                                          <a href="editar.php">  <img src="musculos.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                          &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+                                   
+                                   
+                                          <a href="editar.php">   <img src="medicina.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+                                   
+                                    <a href="editar.php">   <img src="clasa.jpg" WIDTH=150 HEIGHT=150 ></a>
+                                    
+                            <br>
+                         <br>
+                           <br>
+                           <a href="editar.php"> <img src="lexus.jpg" WIDTH=150 HEIGHT=150 > </a>   
+                                        &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+                                  
+                                        <a href="editar.php"> <img src="deportiva.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                          &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+                                     
+                                          <a href="editar.php">  <img src="diccionario.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                          &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+                                  
+                                          <a href="editar.php">   <img src="derecho.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+                                  
+                                    <a href="editar.php">   <img src="fisica.jpg" WIDTH=150 HEIGHT=150 ></a>
+                               <br><br><br>
+                               
+            
+                                    <br><br><br>
+                                    
 
-           <td><input type="text" placeholder=' Precioproducto' name='precio' required></td>
-           </tr> </center><center>
-           <tr>
- <br>
-                                 
-          
-                      
-                            <!-- Aqui va el texto DE COLOR -->
-                            <FONT COLOR=blue>DESCRIPCIÓN:</FONT>
-                            <BR>
-                        <TEXTAREA placeholder='describcion'   NAME="descrip" ROWS=3 COLS=80 WRAP=off>
-                        </TEXTAREA>
-                        <br>
-                        <br>
-                        <td><input type="submit" value='registrar' ></
-                        <a href='calculador.php'></a>
-                            
-                     
-                      </FORM>
-                              <br>
-                    
-                        </tr>
-      
-    </table>
-    </center>
-  
-
+</div> 
+</div>
 </body>
-</html>
+</html
+
+
+
+
+<div class="text-center">
+
+
+<div class="wrapper" id="ex4"> 
+  <div> 
+      <br> 
+   
+     
+                    
+ 
+   
+</div>

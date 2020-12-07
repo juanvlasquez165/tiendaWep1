@@ -10,14 +10,15 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     
 </head>
-<body>
+<body background="https://cdn.wallpapersafari.com/53/76/76SPwm.jpg">
+
 <article>
 <header>
         
 <nav class="navbar navbar-expand-lg navbar-darck bg-dark">
             <a class="navbar-brand" href="#"></a>
           <hr>
-          <center>   <IMG SRC="lei.png.png" WIDTH=150 HEIGHT=150>   
+          <center>   <IMG SRC="lei.png" WIDTH=150 HEIGHT=150>   
 
 <font  color="red" face="Comic Sans MS,arial,verdana"> <h1>LIBRERIA LEAMOS COLOMBIA </h1></font>
 
@@ -37,41 +38,41 @@
   <div> 
       <br> 
     
-       dar click en la imagen para editar o eliminar
+ 
        <br>   
-         <a href="editar.php"> <img src="nutricion.jpg" WIDTH=150 HEIGHT=150 title="click para editar" > </a>   
+         <a href="form.php"> <img src="https://github.com/juanvlasquez165/tiendaWep1/blob/27d38f7706e973a420e901b9f17078900fe4ecc4/clasa.jpg?raw=true" WIDTH=150 HEIGHT=150 title="click para editar" > </a>   
                                         &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
                                         
     
-                                        <a href="editar.php"> <img src="enfermeria.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                        <a href="form.php"> <img src="https://github.com/juanvlasquez165/tiendaWep1/blob/27d38f7706e973a420e901b9f17078900fe4ecc4/deportiva.jpg?raw=true" WIDTH=150 HEIGHT=150 > </a>
                                           &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
                                          
                                          
-                                          <a href="editar.php">  <img src="musculos.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                          <a href="form.php">  <img src="https://github.com/juanvlasquez165/tiendaWep1/blob/main/derecho.jpg?raw=true" WIDTH=150 HEIGHT=150 > </a>
                                           &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
                                    
                                    
-                                          <a href="editar.php">   <img src="medicina.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                          <a href="form.php">   <img src="https://github.com/juanvlasquez165/tiendaWep1/blob/main/diccionario.jpg?raw=true" WIDTH=150 HEIGHT=150 > </a>
                                     &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
                                    
-                                    <a href="editar.php">   <img src="clasa.jpg" WIDTH=150 HEIGHT=150 ></a>
+                                    <a href="form.php">   <img src="https://github.com/juanvlasquez165/tiendaWep1/blob/main/fisica.jpg?raw=true" WIDTH=150 HEIGHT=150 ></a>
                                     
                             <br>
                          <br>
                            <br>
-                           <a href="editar.php"> <img src="lexus.jpg" WIDTH=150 HEIGHT=150 > </a>   
+                           <a href="form.php"> <img src="https://github.com/juanvlasquez165/tiendaWep1/blob/main/juan%20(1).jpg?raw=true" WIDTH=150 HEIGHT=150 > </a>   
                                         &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
                                   
-                                        <a href="editar.php"> <img src="deportiva.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                        <a href="form.php"> <img src="https://github.com/juanvlasquez165/tiendaWep1/blob/main/juan%20(3).jpg?raw=true" WIDTH=150 HEIGHT=150 > </a>
                                           &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
                                      
-                                          <a href="editar.php">  <img src="diccionario.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                          <a href="form.php">  <img src="https://github.com/juanvlasquez165/tiendaWep1/blob/main/medicina.jpg?raw=true" WIDTH=150 HEIGHT=150 > </a>
                                           &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
                                   
-                                          <a href="editar.php">   <img src="derecho.jpg" WIDTH=150 HEIGHT=150 > </a>
+                                          <a href="form.php">   <img src="https://github.com/juanvlasquez165/tiendaWep1/blob/main/pedagogia.jpg?raw=true" WIDTH=150 HEIGHT=150 > </a>
                                     &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
                                   
-                                    <a href="editar.php">   <img src="fisica.jpg" WIDTH=150 HEIGHT=150 ></a>
+                                    <a href="form.php">   <img src="https://github.com/juanvlasquez165/tiendaWep1/blob/main/nutricion.jpg?raw=true" WIDTH=150 HEIGHT=150 ></a>
                                <br><br><br>
                                
             
